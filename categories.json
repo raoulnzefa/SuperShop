@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Wszystko", 
+        "parent": -1,
+        "pre": 0,
+        "post": 5
+    },
+    {
+        "id": 1,
+        "name": "Elektronika",
+        "parent": 0,
+        "pre": 1,
+        "post": 3
+    },
+    {
+        "id": 2,
+        "name": "Odziez",
+        "parent": 0,
+        "pre": 4,
+        "post": 4
+    },
+    {
+        "id": 3,
+        "name": "Biurowe",
+        "parent": 0,
+        "pre": 5,
+        "post": 5
+    },
+    {
+        "id": 4,
+        "name": "Komputery",
+        "parent": 1,
+        "pre": 2,
+        "post": 2
+    },
+    {
+        "id": 5,
+        "name": "Telefony",
+        "parent": 1,
+        "pre": 3,
+        "post": 3
+    }
+]
